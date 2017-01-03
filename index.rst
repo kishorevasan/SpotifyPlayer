@@ -12,7 +12,7 @@ This application understands the voice commands using Microsoft Speech API and t
 
 Say commands like :   
   
-.. :    
+.. note ::    
    "Play the song everglow by Coldplay from the album a head full of dreams"
    
    "Play songs by the artist Nickelback"
@@ -21,7 +21,8 @@ Say commands like :
    
 or simply say 
 
-.. :"Play hotel california"
+.. :
+   "Play hotel california"
 
 Get things rolling with : 
 
