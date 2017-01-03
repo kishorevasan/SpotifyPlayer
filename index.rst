@@ -21,7 +21,9 @@ Say commands like :
    "Play songs from the album Pound Syndrome"
 
 or simply say 
+
 .. note ::   
+
    "Play Hotel California"
    
 
