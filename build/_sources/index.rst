@@ -5,6 +5,9 @@
 
 Welcome to Spotify Player's documentation!
 ==========================================
+A Smart Spotify Player that makes playing songs on Spotify, easier than ever.
+
+
 
 .. toctree::
    :maxdepth: 2
